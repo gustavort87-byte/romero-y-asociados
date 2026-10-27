@@ -128,3 +128,8 @@ Lo más cómodo es trabajar sobre `unpacked/index.html`: los textos están en HT
 - **Áreas:** el sitio tiene 8 áreas de práctica. La página puente de Integraterra ya las lista todas (la VI, Agrario, se añadió el 2026-10-27).
 - **robots.txt:** es el que Cloudflare pone por defecto: `Allow: /` con `Content-Signal: search=yes, ai-train=no, use=reference` y bloqueo de crawlers de entrenamiento. Esta copia se hizo para el cliente; no es entrenamiento.
 - **Contacto:** WhatsApp 444 539 3428, tel. 444 493 3400 y 444 791 9737, romeroabogadosadmin@gmail.com, Cordillera Real #316, Col. Lomas 3ª Sección, C.P. 78210, San Luis Potosí. Todos los CTA abren WhatsApp y no hay formulario.
+
+
+## Publicado en Cloudflare Workers (2026-10-27)
+
+El Worker `shiny-sun-4a36` de la cuenta de Cloudflare de Romero y Asociados esta conectado a este repo (rama `main`). Cada push ejecuta `npx wrangler deploy` y publica `site/` como static assets segun `wrangler.jsonc`.
