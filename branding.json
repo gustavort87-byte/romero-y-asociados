@@ -1,0 +1,66 @@
+{
+  "fuente": "Firecrawl branding + CSS de unpacked/template.html",
+  "capturado": "2026-10-26",
+  "colores": {
+    "azul_marino_hero_footer": "#16233F",
+    "azul_texto_titulos": "#1B2A4A",
+    "texto_cuerpo": "#3A4560",
+    "texto_secundario": "#55607A",
+    "dorado": "#B08D45",
+    "dorado_claro": "#D6B26E",
+    "dorado_hover": "#C69E52",
+    "blanco": "#FFFFFF",
+    "gris_fondo": "#F7F8FA",
+    "gris_fondo_2": "#EEF0F3",
+    "bordes": [
+      "#C6CDDD",
+      "#B9C1D4"
+    ],
+    "whatsapp": "#25D366",
+    "whatsapp_hover": "#1EBE5A"
+  },
+  "tipografia": {
+    "titulos": "Playfair Display (500, 600, 700)",
+    "logotipo_y_acentos": "Cormorant Garamond (400, 500, 600, 700; itálica 400)",
+    "cuerpo": "Lato (300, 400, 700)",
+    "tamaños_escritorio": {
+      "h1": "56px",
+      "h2": "42px",
+      "cuerpo": "20px"
+    },
+    "origen": "Fuentes de Google incrustadas en el bundle (woff2), no se cargan de Google"
+  },
+  "botones": {
+    "primario": {
+      "fondo": "#B08D45",
+      "texto": "#FFFFFF",
+      "radio": "3px"
+    },
+    "secundario": {
+      "fondo": "#F7F8FA",
+      "texto": "#1B2A4A",
+      "borde": "#DDDFE5",
+      "radio": "4px"
+    },
+    "flotante_whatsapp": {
+      "fondo": "#25D366",
+      "tamaño": "60px",
+      "posicion": "fixed, right 20px, bottom 20px"
+    }
+  },
+  "layout": {
+    "contenedor_max": "1180px",
+    "breakpoints": {
+      "860px": "se ocultan los enlaces del menú",
+      "700px": "la rejilla de contacto pasa a 1 columna"
+    },
+    "header": "fixed, fondo rgba(255,255,255,0.97), sombra rgba(27,42,74,0.06) 0 1px 12px"
+  },
+  "logo": {
+    "archivo": "assets/logo-romero.png",
+    "tamaño": "2000x2000",
+    "descripcion": "Hexágono dorado con R azul marino; ROMERO / — Y ASOCIADOS — / ABOGADOS"
+  },
+  "og_image": "assets/og-logo.png (1200x630)",
+  "tono": "profesional, cercano, tuteo"
+}

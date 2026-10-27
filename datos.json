@@ -1,0 +1,132 @@
+{
+  "fuente": "https://romeroabogados.com.mx/",
+  "capturado": "2026-10-26",
+  "tipo": "one-page",
+  "despacho": {
+    "nombre": "Romero y Asociados · Abogados",
+    "ciudad": "San Luis Potosí, S.L.P., México",
+    "mision": "Nuestra misión es protegerte, brindarte seguridad y ofrecerte una solución a tus problemas."
+  },
+  "contacto": {
+    "telefonos": [
+      "444 493 3400",
+      "444 791 9737"
+    ],
+    "telefono_enlace": "tel:+524444933400",
+    "whatsapp": "444 539 3428",
+    "whatsapp_enlace": "https://wa.me/524445393428?text=Hola%2C%20me%20gustar%C3%ADa%20agendar%20una%20cita.",
+    "whatsapp_mensaje": "Hola, me gustaría agendar una cita.",
+    "correo": "romeroabogadosadmin@gmail.com",
+    "direccion": "Cordillera Real #316, Col. Lomas 3ª Sección, C.P. 78210, San Luis Potosí, S.L.P.",
+    "mapa": "https://maps.google.com/?q=Cordillera+Real+316,+Lomas+3a+Seccion,+78210+San+Luis+Potosi",
+    "coordenadas_aprox": {
+      "lat": 22.144026,
+      "lng": -101.0252487
+    }
+  },
+  "navegacion": [
+    {
+      "texto": "Nosotros",
+      "ancla": "#nosotros"
+    },
+    {
+      "texto": "Áreas de práctica",
+      "ancla": "#areas"
+    },
+    {
+      "texto": "Fundamentos",
+      "ancla": "#valores"
+    },
+    {
+      "texto": "Equipo",
+      "ancla": "#equipo"
+    },
+    {
+      "texto": "Contacto",
+      "ancla": "#contacto"
+    }
+  ],
+  "diferenciadores": [
+    {
+      "titulo": "Confidencialidad absoluta",
+      "texto": "Tu asunto se trata con total discreción y reserva profesional."
+    },
+    {
+      "titulo": "Honestidad desde el inicio",
+      "texto": "Te decimos con franqueza la viabilidad de tu caso y qué esperar en cada etapa."
+    },
+    {
+      "titulo": "Comunicación constante",
+      "texto": "Siempre sabrás en qué punto está tu asunto y cuál es el siguiente paso."
+    }
+  ],
+  "masc": "Representación en mecanismos alternativos de solución de controversias (negociación, mediación, arbitraje).",
+  "areas_de_practica": [
+    {
+      "num": "I",
+      "area": "Derecho Constitucional",
+      "texto": "Protección de derechos fundamentales a través del juicio de amparo y la defensa frente a actos de autoridad que vulneren tus garantías. Estructuramos estrategias para hacer valer la Constitución en cada etapa del proceso."
+    },
+    {
+      "num": "II",
+      "area": "Litigio Civil y Mercantil",
+      "texto": "Representación en controversias civiles y comerciales —contratos, obligaciones, cobranza y conflictos societarios—, con un rumbo estratégico orientado a proteger los intereses patrimoniales de cada cliente."
+    },
+    {
+      "num": "III",
+      "area": "Derecho Penal",
+      "texto": "Defensa y representación en procesos penales, desde la carpeta de investigación hasta el juicio oral. Actuamos en la contención temprana del riesgo, incluyendo la obtención de medidas cautelares, y protegemos los derechos tanto del imputado como de la víctima. Contamos con abogados especializados en justicia para adolescentes."
+    },
+    {
+      "num": "IV",
+      "area": "Derecho Laboral",
+      "texto": "Asesoría y litigio en conflictos individuales de trabajo, representando tanto a trabajadores como a empresas: despidos, prestaciones, negociación y representación ante los tribunales laborales."
+    },
+    {
+      "num": "V",
+      "area": "Derecho Familiar",
+      "texto": "Acompañamiento en los asuntos más sensibles: divorcios, pensión alimenticia, guarda y custodia, y sucesiones. Combinamos firmeza técnica con el cuidado que estos temas requieren."
+    },
+    {
+      "num": "VI",
+      "area": "Derecho Agrario y de Tierras",
+      "texto": "Asesoría y litigio en materia de propiedad social, ejidos y tierras comunales ante los tribunales agrarios, así como en los conflictos derivados de la Ley Agraria."
+    },
+    {
+      "num": "VII",
+      "area": "Derecho Migratorio",
+      "texto": "Trámites y representación en materia migratoria: regularización de estancia, visas, residencias y acompañamiento ante el Instituto Nacional de Migración."
+    },
+    {
+      "num": "VIII",
+      "area": "Propiedad Intelectual",
+      "texto": "Registro y protección de marcas, patentes y derechos de autor, así como la defensa frente a usos indebidos y controversias sobre activos intangibles."
+    }
+  ],
+  "valores": [
+    {
+      "valor": "Cercanía",
+      "texto": "Te escuchamos y entendemos tus preocupaciones antes de actuar."
+    },
+    {
+      "valor": "Estrategia",
+      "texto": "Cada asunto se aborda con un rumbo claro y decisiones informadas."
+    },
+    {
+      "valor": "Compromiso",
+      "texto": "Te acompañamos en cada etapa del conflicto, hasta encontrar la solución que te proteja."
+    }
+  ],
+  "equipo": {
+    "miembros_publicados": 0,
+    "nota": "El sitio no publica nombres ni fotos del equipo."
+  },
+  "enlaces": {
+    "total": 14,
+    "whatsapp": 5,
+    "tel": 1,
+    "mailto": 1,
+    "maps": 1,
+    "anclas": 6
+  }
+}

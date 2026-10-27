@@ -1,0 +1,39 @@
+{
+  "uuid_to_file": {
+    "869e9816-a97f-49fc-8a7c-0f89f9ac0513": "img/logo-romero.png",
+    "ef0c107b-4bb3-4b44-8721-29de5284fd51": "img/hero-fondo.png",
+    "12e093e0-8973-4bad-8f94-e1dab4a54f17": "js/dc-runtime.js",
+    "f2749861-1ed8-454a-b3ac-13a93da15705": "js/react-18.3.1.production.min.js",
+    "e958b144-9a3a-4011-b08f-ed7cb8712b66": "js/react-dom-18.3.1.production.min.js",
+    "9825b469-e3df-4d1e-9f05-b0771348e4ca": "fonts/cormorant-garamond-italic-cyrillic-ext.woff2",
+    "844678d7-b814-4511-b11e-5f0703e98000": "fonts/cormorant-garamond-italic-cyrillic.woff2",
+    "2e749343-4b31-4d6e-b156-3e5fc8a42dcd": "fonts/cormorant-garamond-italic-vietnamese.woff2",
+    "fdf12281-01c3-4511-9ea6-5de33350bf5c": "fonts/cormorant-garamond-italic-latin-ext.woff2",
+    "87aedbfa-1657-4962-a753-990f6bb3d53d": "fonts/cormorant-garamond-italic-latin.woff2",
+    "3693ad8f-e9cd-4542-8f7e-759d61dadda4": "fonts/cormorant-garamond-cyrillic-ext.woff2",
+    "45412e36-67e1-4be8-b9c5-c42d5978f7e8": "fonts/cormorant-garamond-cyrillic.woff2",
+    "cdc40728-8669-4395-a182-10f8e9f3de67": "fonts/cormorant-garamond-vietnamese.woff2",
+    "3fe91d74-f22c-4771-86f2-0389b8495ed8": "fonts/cormorant-garamond-latin-ext.woff2",
+    "5a5097b7-f7a9-4be9-9b61-e457a2c0923f": "fonts/cormorant-garamond-latin.woff2",
+    "0af00158-6f17-4544-adf2-f44bf4a9c90e": "fonts/lato-300-latin-ext.woff2",
+    "b22d723b-b68a-4394-b645-1d4cfff2ff6d": "fonts/lato-300-latin.woff2",
+    "a24c2d13-7de5-4829-91cb-e0ca6539bf7e": "fonts/lato-400-latin-ext.woff2",
+    "b39da484-54ca-47cd-ae88-c241d95bbf95": "fonts/lato-400-latin.woff2",
+    "3ba6e1b5-bd40-42f5-b273-37ca37c2e5fd": "fonts/lato-700-latin-ext.woff2",
+    "83522a8e-39f7-4c7b-ac8b-2636cc7506b9": "fonts/lato-700-latin.woff2",
+    "e717c5c5-c818-47d7-9105-7a047e145200": "fonts/playfair-display-cyrillic.woff2",
+    "508839b4-5055-4b67-ba47-014677ab4a92": "fonts/playfair-display-vietnamese.woff2",
+    "47cdcfe2-d330-4209-8e5f-36f85f037731": "fonts/playfair-display-latin-ext.woff2",
+    "c6f4a2db-4d63-419b-af70-3fb1defb8964": "fonts/playfair-display-latin.woff2"
+  },
+  "ext_resources": [
+    {
+      "id": "https://unpkg.com/react@18.3.1/umd/react.production.min.js",
+      "uuid": "f2749861-1ed8-454a-b3ac-13a93da15705"
+    },
+    {
+      "id": "https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js",
+      "uuid": "e958b144-9a3a-4011-b08f-ed7cb8712b66"
+    }
+  ]
+}
