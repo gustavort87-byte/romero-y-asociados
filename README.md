@@ -110,11 +110,10 @@ Romero-y-Asociados/
 
 ## Cambios frente al original
 
-`site/index.html` es igual a `raw/index.original.html` salvo estos tres cambios:
+`site/index.html` es igual a `raw/index.original.html` salvo estos dos cambios:
 
 1. **Favicon:** el sitio original no tiene, y el navegador muestra el ícono genérico. Se añadieron tres etiquetas `<link rel="icon">` / `apple-touch-icon`, tanto en el cargador como dentro de la plantilla, porque la plantilla reemplaza el `<head>`. Apuntan a íconos recortados del hexágono con la "R" del logo original. No cambia nada de la página: la comparación de píxeles dio 0.
 2. **Enlace de la alianza** en la tarjeta VI (ver la sección "Alianza"). Se insertó en la plantilla JSON del bundle, donde `</` va escapado como `</`, y también en `unpacked/index.html`.
-3. **Fondo aurora en el hero (2026-10-27):** bandas de luz azul que se mueven despacio desde la esquina superior derecha, encima de la foto de la ciudad. Es la versión en CSS puro del componente React `AuroraBackground` (shadcn/Tailwind). El sitio es HTML estático sin React ni Tailwind, así que se portó la misma técnica: dos `repeating-linear-gradient`, `blur(10px)`, `mix-blend-mode: difference`, animación de 60 s y máscara radial. En lugar de la paleta de Tailwind usa los azules del sitio (`#16233F` como velo y `#3A5A9C`, `#5B79B8`, `#2F4C86`, `#B9C1D4`, `#C6CDDD` en las bandas). Con "reducir movimiento" activado queda fija. Son las reglas `#inicio .ra-aurora` del `<style>` y un `<div class="ra-aurora">` dentro del `<header id="inicio">`.
 
 Si se quiere el original sin ningún cambio, basta con usar `raw/index.original.html` renombrado a `index.html`.
 
